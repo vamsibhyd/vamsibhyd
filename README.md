@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating projects and learning new things
 - 🌱 I’m currently learning Java FullStack
 - 📫 How to reach me vamsibhyd@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: i like reading novels
 
 <!---
