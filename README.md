@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vamsibhyd
+- 👋 Hi, I’m @vamsibolla
 - 👀 I’m interested in creating projects and learning new things
 - 🌱 I’m currently learning Java FullStack
 - 📫 How to reach me vamsibhyd@gmail.com
