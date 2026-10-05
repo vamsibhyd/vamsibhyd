@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vamsibolla
 - 👀 I’m interested in creating projects and learning new things
-- 🌱 I’m currently Machine learning
+- 🌱 I’m currently learning how to create Machine learning Models
 - 📫 How to reach me vamsibhyd@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: i like reading novels
